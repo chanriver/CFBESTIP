@@ -18,7 +18,7 @@ xn--b6gac.eu.org#速度很慢
 freeyx.cloudflare88.eu.org#速度很快
 jerry.cloudflare.182682.xyz#wetest.vip维护，速度一般
 jerry.tencentapp.cn#ktff维护，速度很快
-cf.zhetengsha.eu.org#小一维护，速度很快,
+cf.zhetengsha.eu.org#小一维护，速度很快
 www.gov.se#官方优选，速度较快
 yx.887141.xyz
 cloudflare.czkcdn.cn
